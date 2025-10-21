@@ -34,7 +34,3 @@ print("=== List Multiply (3x3) ===")
 print("Input state:", state3)
 print("Matrix:", matrix3)
 print("Output:", multiply_list(state3, matrix3))
-
-
-
-\
